@@ -58,7 +58,7 @@ Using Excel pivot tables and charts, EDA focused on identifying:
 ### 🔹Top 6 Brands by Average Price
 
 ![](Brands.png)
-- The 2022 Maruti Grand Vitara ALPHA SMART HYBRID ALLGRIP leads with ₹1,599,000.
+- The 2022 Maruti Grand Vitara ALPHA SMART HYBRID ALLGRIP leads with $1,599,000.
 - Followed by 2023 Ertiga ZXI+ AT SHVS and 2022 Maruti XL6 ALPHA PLUS AT, showing consistent demand for high-end variants.
 
 ### 🔹 Average Price Over Years
