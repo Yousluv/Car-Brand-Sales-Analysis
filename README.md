@@ -69,7 +69,7 @@ Using Excel pivot tables and charts, EDA focused on identifying:
 - Manual transmission dominates (1,073 listings) over automatic (372), but automatic cars command a higher average price ($601,339 vs. $500,358).
 
 🔹 Ownership by KM Driven
-![](KMprice.png)
+![](KMdriven.png)
 - Vehicles with 3 ownerships have the highest average KM driven (74,488), suggesting greater usage or older vehicles.
 - Newer cars (1 ownership) have lower average KM, ideal for resale.
 
