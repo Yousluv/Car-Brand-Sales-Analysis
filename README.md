@@ -1,5 +1,5 @@
-# Car-Brand-Sales-Analysis
-Car Brands Sales Analysis (2010–2023) – Dashboard Report
+# Car-Brand-Sales-Analysis 2010 - 2023
+
 ## Introduction
 This project focuses on analyzing the trends, demand, and pricing patterns in the used car market from 2010 to 2023. By leveraging key automotive attributes such as transmission, fuel type, engine capacity, and ownership history, this dashboard delivers strategic insights for both car buyers and industry stakeholders.
 
