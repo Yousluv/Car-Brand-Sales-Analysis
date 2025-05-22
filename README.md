@@ -55,25 +55,26 @@ Using Excel pivot tables and charts, EDA focused on identifying:
 - Demand by fuel type
 
 ## Dashboard Insights
-🔹 Top 6 Brands by Average Price
+### 🔹Top 6 Brands by Average Price
+
 ![](Brands.png)
 - The 2022 Maruti Grand Vitara ALPHA SMART HYBRID ALLGRIP leads with ₹1,599,000.
 - Followed by 2023 Ertiga ZXI+ AT SHVS and 2022 Maruti XL6 ALPHA PLUS AT, showing consistent demand for high-end variants.
 
-🔹 Average Price Over Years
+### 🔹 Average Price Over Years
 ![](trends.png)
 - The price has shown a steady upward trend from $208,000 in 2010 to $775,774 in 2023, indicating increased consumer spending and model quality over time.
 
-🔹 Transmission by Number
+### 🔹 Transmission by Number
 ![](Transmission.png)
 - Manual transmission dominates (1,073 listings) over automatic (372), but automatic cars command a higher average price ($601,339 vs. $500,358).
 
-🔹 Ownership by KM Driven
+### 🔹 Ownership by KM Driven
 ![](KMdriven.png)
 - Vehicles with 3 ownerships have the highest average KM driven (74,488), suggesting greater usage or older vehicles.
 - Newer cars (1 ownership) have lower average KM, ideal for resale.
 
-🔹 Transmission Analysis
+### 🔹 Transmission Analysis
 ![](KMprice.png)
 - Automatic cars have a higher average price despite fewer listings, showing market value and possibly greater demand.
 - Manual cars are more common but lower-priced, appealing to budget-conscious buyers.
